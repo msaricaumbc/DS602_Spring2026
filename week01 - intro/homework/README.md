@@ -29,6 +29,7 @@ https://docs.google.com/forms/d/10hHnbjusUPKIqSkrIdxuttWlOO_dE-5ebe-eDpe3vdA/pre
 
 Now we are good to start Homework 1
 # Homework
+## Due Tuesday
 
 1. Now you are ready to start your homework week1.
 1. Create a folder __week01__ in your repo root. 
