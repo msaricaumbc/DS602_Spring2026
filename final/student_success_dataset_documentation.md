@@ -1,4 +1,3 @@
-# Option1
 
 ## Student Success Prediction
 
